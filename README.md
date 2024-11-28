@@ -7,7 +7,7 @@ TensorFlow package was used for creating the model.
 Project was run on Google Colab using their NVIDIA-SMI GPU.
 
 Neural network of this structure was built:
-![image|50](https://github.com/user-attachments/assets/2b6dff9a-f9e9-4694-86f1-ce7a702bdb6e)
+![image](https://github.com/user-attachments/assets/2b6dff9a-f9e9-4694-86f1-ce7a702bdb6e){width=200px}
 
 ReLu activation was used in convolutional and dense layers while Softmax was used for the output layer.
 
